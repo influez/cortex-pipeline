@@ -1,4 +1,4 @@
-# Cortex XDR → ELK Alert Pipeline
+# Cortex XDR Alerts to ELK Pipeline
 
 ![Pipeline Status](https://img.shields.io/badge/pipeline-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
